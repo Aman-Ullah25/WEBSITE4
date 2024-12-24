@@ -1,6 +1,7 @@
 import Image from 'next/image'
 export default function NavBar() {
 return(
+<title>COMFORTY</title>
 <header className="bg-white shadow py-4">
         <div className="container mx-auto flex justify-between items-center">
           <div className="flex items-center">
