@@ -48,7 +48,7 @@ export default function About() {
           </div>
           <div className="p-6 border rounded-lg hover:shadow-lg border-black">
             <h3 className="text-lg font-bold mb-2 text-black">Unbeatable prices</h3>
-            <p className="text-black">For our materials and quality you won't find better prices</p>
+            <p className="text-black">For our materials and quality you wont find better prices</p>
           </div>
           <div className="p-6 border rounded-lg hover:shadow-lg border-black">
             <h3 className="text-lg font-bold mb-2 text-black">Recycled packaging</h3>
