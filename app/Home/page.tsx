@@ -26,7 +26,7 @@ const Home = () => {
       
         <div className="mt-8 md:mt-0 md:w-1/2 flex justify-center">
          <Image
-             src="/Pictures/Product Image.png"
+             src="/Pictures/ProductImage.png"
              alt="Dandy Chair"
              width={500}
              height={500}
